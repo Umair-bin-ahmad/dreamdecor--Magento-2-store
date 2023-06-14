@@ -19,20 +19,6 @@ The Fitting of furniture and extra services provided on demand while purchasing 
 - User can add product reviews 
 - Integrated Braintree Payment Module and many more...
 
-### Glimpse of the Dream&Decor
-
-## - Home Page Screen 
-![image](https://github.com/neeta-tm/images/blob/master/furniture/Drem-DecorHome.png)
-
-## - Category Page 
-![image](https://github.com/neeta-tm/images/blob/master/furniture/Dream-DecorBeds.png)
-
-## - Product Detail Page 
-![image](https://github.com/neeta-tm/images/blob/master/furniture/Dream-DecorBeds-PDP.png)
-
-## Support
-
-If you encounter any problems or bugs, please <a href="https://github.com/TechMitraaTeam/MaterialableAdmin/issues">open an issue</a> on GitHub or get connect with us at [TechMitraa Support](https://www.techmitraa.com/contact.html ) 
 
 # Let us know!
 
