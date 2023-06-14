@@ -36,4 +36,4 @@ If you encounter any problems or bugs, please <a href="https://github.com/TechMi
 
 # Let us know!
 
-We’d be love to hear from you. You can send us links to your projects where you using our component. Just send an email to mohit@techmitraa.com And do let us know if you have any questions or suggestion regarding our work. We are happy to help you.
+We’d be love to hear from you. You can send us links to your projects where you using our component. Just send an email to umairbinahmad0@gmail.com And do let us know if you have any questions or suggestion regarding our work. We are happy to help you.
